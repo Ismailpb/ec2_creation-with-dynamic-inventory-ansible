@@ -1,0 +1,1 @@
+# ec2_creation-with-dynamic-inventory-ansible
